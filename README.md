@@ -2,8 +2,7 @@
 Disable or enable any wifi network which are discovered in the range of your device PC or router
 
 
-# note that you must  be  using a wireless external adaptor beacause monitor mode will not work if you using virtual lab it may work if you are using
-# live kali so remember using a external wifi adaptor
+# note that you must  be  using a wireless external adaptor beacause monitor mode will not work if you using virtual lab it may work if you are using live kali so remember using a external wifi adaptor
 
 
 

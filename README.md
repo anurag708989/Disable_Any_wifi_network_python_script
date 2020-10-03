@@ -12,14 +12,14 @@ this is going to be interesting as we are mainly using tools which are already i
 # airmon - for enabling monitor mode 
 # airodump - for dumping all nearby networks
 # aireplay - for applying deauthentication packets or for disabling the wifi
-you can see the steps how i followed:
+you can follow the steps:
 # ifconfig
 ![](ifconfig.png)
 # entering argument -i or --iface
 ![](entering_argument.png)
-
+# now our wireless module is going to monitor mode
 ![](1.png)
-
+# Monotor mode you can see ether part is encrypted now
 ![](2.png)
 # entering the modified interface or entering the same if it doesn't modified
 ![](3_Entering_new_interface.png)
